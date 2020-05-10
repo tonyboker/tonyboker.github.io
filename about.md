@@ -24,7 +24,7 @@ title: 关于我
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上。
+博客源码<a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>作者leopardpan</a> 。
 
 <p> 
 

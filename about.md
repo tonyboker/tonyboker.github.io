@@ -25,6 +25,9 @@ title: 关于我
 <p> 
 
 博客源码<a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>作者leopardpan</a> 。
+<p>
+
+如果你想学习做网站<a target="_blank" href='https://www.xuewangzhan.net/wenti/170.html'>学做网站</a>
 
 <p> 
 

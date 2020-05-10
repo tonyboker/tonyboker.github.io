@@ -15,12 +15,12 @@ title: 关于我
 <p>
 
 如果你想搭建一个博客，可以看 
-<a target="_blank" href='https://www.jekyll.com.cn/'>Jekyll 中文文档 
+<a target="_blank" href='https://www.jekyll.com.cn/'>Jekyll 中文文档</a> 
 
 <p>
 
 也可以用hexo来搭建博客
-<a target="_blank" href='https://www.jianshu.com/p/015830111478'>hexo搭建博客教程
+<a target="_blank" href='https://www.jianshu.com/p/015830111478'>hexo搭建博客教程</a>
 
 <p> 
 

@@ -14,9 +14,13 @@ title: 关于我
 <h2> 我的博客 </h2>  
 <p>
 
-如果你想搭建一个跟我一样的博客，可以看 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
+如果你想搭建一个博客，可以看 
+<a target="_blank" href='https://www.jekyll.com.cn/'>Jekyll 中文文档 
+
+<p>
+
+也可以用hexo来搭建博客
+<a target="_blank" href='https://www.jianshu.com/p/015830111478'>hexo搭建博客教程
 
 <p> 
 
